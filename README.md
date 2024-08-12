@@ -6,6 +6,7 @@
 
 - This is a simple countdown timer application where the user can set a date, name the event, choose a background image, and select a theme color
 - The application creates a customized countdown timer to the specified date
+- Built using React and Vite
 
 <p align="center">
   <img src="img/Countdown_Timer_Image.png" alt="Countdown Timer Image" />
